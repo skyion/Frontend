@@ -1,17 +1,29 @@
-# How to use
-Prerequisites:
-- NodeJS
-- NPM
+How to use
+=============
 
+Prerequisites
+-------
+-  NodeJS
+-  NPM
 
-1. Open the root of the folder in Terminal (Console) and type this commands:
+Installation
+-----------
+Open the root of the folder in Terminal (Console) and type this commands:
+
+```
 npm install
 npm run typings install
+```
 
-2. Start the Project:
+Usage
+-----------
+
+```
 npm start
+```
 
-P.S.: This include:
+What's inside
+-----------
 - min Requirements just for running Angular2 App (no extra files);
 - automatically watch for changes in your files;
 - compile files from TS to JS;
