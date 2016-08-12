@@ -1,3 +1,6 @@
+№ Remove VS Code folder:
+.vscode
+
 # Remove js and map.js from the Project:
 *.js
 *.js.map
