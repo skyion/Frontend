@@ -1,10 +1,8 @@
-№ Remove VS Code folder:
-.vscode
+# Intellij:
+.idea/
 
-# Remove js and map.js from the Project:
-*.js
-*.js.map
-
+# Remove VS Code folder:
+.vscode/
 
 # Node:
 
