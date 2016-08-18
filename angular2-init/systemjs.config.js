@@ -59,4 +59,8 @@
         packages: packages
     };
     System.config(config);
+<<<<<<< 18e29bca628a61a317b54dbf689fbccb930a0ada
 })(this);
+=======
+})(this);
+>>>>>>> Added react-init
